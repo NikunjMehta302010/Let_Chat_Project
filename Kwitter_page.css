@@ -1,4 +1,4 @@
-ml, body
+html, body
 {
   height: 100%;
   margin: 0;
@@ -6,7 +6,7 @@ ml, body
 
 body
 {
-background-image: linear-gradient(to right top, #f18f33, #d98525, #c17818, #aa6a0a, #944700);
+background-image: linear-gradient(to right top,#f18f33, #d98525, #c17818, #aa6a0a, #944700);
 }
 
 .header
